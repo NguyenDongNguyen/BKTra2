@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769284225357",
+    "project_id": "bktra2-8546f",
+    "storage_bucket": "bktra2-8546f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769284225357:android:d444ff019f14f55d571f04",
+        "android_client_info": {
+          "package_name": "com.example.bktra2_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769284225357-1pbknrj33h5c0es743tt25gvd2b05jf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvi0IWM-jjtsIj3d_XDmE6abiz8pxVr8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769284225357-1pbknrj33h5c0es743tt25gvd2b05jf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
