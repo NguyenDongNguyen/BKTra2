@@ -123,7 +123,7 @@ public class TreeAdapter extends FirebaseRecyclerAdapter<Tree, TreeAdapter.myVie
                 builder.setPositiveButton("Delete", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
-                        FirebaseDatabase.getInstance().getReference().child("cars")
+                        FirebaseDatabase.getInstance().getReference().child("trees")
                                 .child(getRef(position).getKey()).removeValue();
                     }
                 });
